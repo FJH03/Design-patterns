@@ -1,4 +1,4 @@
-package com.example.singleton;
+package com.muse.patterns.singleton;
 
 import java.util.Arrays;
 

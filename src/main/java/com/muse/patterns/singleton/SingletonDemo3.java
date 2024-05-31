@@ -1,4 +1,4 @@
-package com.example.singleton;
+package com.muse.patterns.singleton;
 
 /**
  * @description 单例模式——双重校验

@@ -1,4 +1,4 @@
-package com.example.prototype;
+package com.muse.patterns.prototype;
 
 import java.util.ArrayList;
 import java.util.List;

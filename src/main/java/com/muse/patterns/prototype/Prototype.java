@@ -1,4 +1,4 @@
-package com.example.prototype;
+package com.muse.patterns.prototype;
 
 /**
  * @description 原型模式（通过clone方法创建的Prototype对象不会执行构造方法）
